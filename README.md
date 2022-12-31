@@ -36,8 +36,14 @@ pip install --upgrade nsepython
 ## Tools and languages Used
 * Google Colab
 * Python
+ ## Google Colab Link
+
+<a href="https://colab.research.google.com/drive/1WfZM1g-oUoRNReGHkaSU3L1WNVF20rWO?usp=sharing">Open in Colab</a>
+
+
 ## 👷‍♂️ Team
 <b>Made by</b> </br>
  * Pragati Gangwar </br>
 * Payal Jha</br>
+
 
