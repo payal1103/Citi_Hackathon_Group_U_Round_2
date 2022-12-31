@@ -39,6 +39,31 @@ pip install --upgrade nsepython
  ## Google Colab Link
 
 <a href="https://colab.research.google.com/drive/1WfZM1g-oUoRNReGHkaSU3L1WNVF20rWO?usp=sharing">Open in Colab</a>
+## Preview 
+### News
+
+<img src="citi_images/news.png" alt="register screen" width="900"/>
+
+### Market Turnover 
+
+<img src="citi_images/market_turnover.png" alt="login screen" width="700"/>
+
+
+
+### Flows
+
+<img src="citi_images/fii_dii.png" alt="Face Detection Results" width="450"/>
+
+
+
+### Option Snapshot
+
+<img src="citi_images/oidata.png" alt="Django SuperAdmin login" width="500"/>
+
+
+### Top Surfers
+
+<img src="citi_images/topsurfer.png" alt="Django user data" width="200"/>
 
 
 ## 👷‍♂️ Team
